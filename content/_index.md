@@ -121,7 +121,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: masonry
+      view: showcase
       columns: '1'
   - block: portfolio
     id: projects
