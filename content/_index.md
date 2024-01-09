@@ -216,23 +216,20 @@ sections:
   - block: contact
     id: contact
     content:
+      title: contact
       # Contact (add or remove contact options as necessary)
       email: han.ren@eng.ox.ac.uk
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Department of Engineering Science, University of Oxford, Parks Road
+        city: Oxford
+        region: Oxfordshire
+        postcode: 'OX1 3PJ'
+        country: United Kingdom
+        country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '51.76025' , 
+        longitude: '-1.25966'  
       # Automatically link email and phone or display as text?
       autolink: true
     design:
