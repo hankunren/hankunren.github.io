@@ -192,12 +192,7 @@ sections:
           - event
     design:
       columns: '1'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '1'
+      view: masonry
   - block: contact
     id: contact
     content:
