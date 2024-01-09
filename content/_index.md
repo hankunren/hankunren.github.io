@@ -13,7 +13,7 @@ sections:
       username: admin
     design:
       spacing:
-        padding: ['0', '0', '10px', '0']
+        padding: ['0', '0', '20px', '0']
 
   - block: collection
     id: posts
@@ -43,7 +43,7 @@ sections:
       view: showcase
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: portfolio
     id: projects
@@ -73,7 +73,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     id: featured
@@ -87,7 +87,7 @@ sections:
       columns: '1'
       view: card
       spacing:
-        padding: ['10px', '0', '0', '0']
+        padding: ['20px', '0', '0', '0']
   - block: collection
     content:
       title: 
@@ -103,7 +103,7 @@ sections:
       columns: '1'
       view: citation
       spacing:
-        padding: ['0', '0', '10px', '0']
+        padding: ['0', '0', '20px', '0']
 
   - block: collection
     id: talks
@@ -116,7 +116,7 @@ sections:
       columns: '1'
       view: compact
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: contact
     id: contact
@@ -140,5 +140,5 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 ---
