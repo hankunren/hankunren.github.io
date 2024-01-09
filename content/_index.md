@@ -53,7 +53,7 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -95,7 +95,7 @@ sections:
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: posts
     content:
@@ -122,7 +122,7 @@ sections:
     design:
       # Choose a layout view
       view: showcase
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -167,7 +167,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   - block: collection
     content:
@@ -181,7 +181,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: collection
     id: talks
@@ -191,13 +191,13 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:
@@ -248,5 +248,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '1'
 ---
