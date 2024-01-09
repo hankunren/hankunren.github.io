@@ -153,7 +153,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -161,9 +161,11 @@ sections:
     design:
       columns: '1'
       view: card
+      spacing:
+        padding: ['20px', '0', '0', '0']
   - block: collection
     content:
-      title: Recent Publications
+      title: 
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -178,13 +180,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
       columns: '1'
-      view: card
+      view: compact
   - block: contact
     id: contact
     content:
