@@ -39,6 +39,8 @@ sections:
       # Choose a layout view
       view: showcase
       columns: '1'
+      spacing:
+        padding: ['10px', '0', '0', '0']
 
   - block: portfolio
     id: projects
@@ -95,6 +97,8 @@ sections:
     design:
       columns: '1'
       view: citation
+      spacing:
+        padding: ['0', '0', '20px', '0']
 
   - block: collection
     id: talks
@@ -110,7 +114,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: contact
+      title: Contact
       # Contact (add or remove contact options as necessary)
       email: han.ren@eng.ox.ac.uk
       address:
