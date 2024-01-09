@@ -228,7 +228,7 @@ sections:
         country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '51.76025' , 
+        latitude: '51.76025'
         longitude: '-1.25966'  
       # Automatically link email and phone or display as text?
       autolink: true
