@@ -177,8 +177,8 @@ sections:
     design:
       columns: '1'
       view: citation
-        spacing:
-          padding: ['0', '0', '20px', '0']
+      spacing:
+        padding: ['0', '0', '20px', '0']
   - block: collection
     id: talks
     content:
