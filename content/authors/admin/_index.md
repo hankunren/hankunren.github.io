@@ -31,6 +31,7 @@ interests:
   - Renewable Energy
   - Energy Storage
   - Optimization
+  - Data Analysis
   - Machine Learning
 
 # Education to show in About widget
