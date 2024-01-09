@@ -117,7 +117,7 @@ highlight_name: true
 
 Han Kun Ren is an Oriel Scholar pursuing a DPhil in Engineering Science at the University of Oxford. He holds an MSc in Energy Systems from the University of Oxford and a BASc in Civil Engineering from the University of Toronto.
 
-His research centers on energy storage design in hybrid renewable systems, specifically focusing on optimizing battery storage capacity, placement, and operation to enhance renewable utilization and reduce system cost.
+Han's research centers on energy storage design in hybrid renewable systems, specifically focusing on optimizing battery storage capacity, placement, and operation to enhance renewable utilization and reduce system cost.
 
 Han has prior work experience in both industrial and research roles, where he honed his skills in programming, optimization, and hybrid renewable design.
 {style="text-align: justify;"}
