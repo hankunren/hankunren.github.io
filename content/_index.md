@@ -39,8 +39,6 @@ sections:
       # Choose a layout view
       view: showcase
       columns: '1'
-      spacing:
-        padding: ['10px', '0', '0', '0']
 
   - block: portfolio
     id: projects
@@ -69,8 +67,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      spacing:
-        padding: ['10px', '0', '0', '0']
 
   - block: collection
     id: featured
@@ -84,7 +80,7 @@ sections:
       columns: '1'
       view: card
       spacing:
-        padding: ['10px', '0', '0', '0']
+        padding: ['20px', '0', '0', '0']
   - block: collection
     content:
       title: 
@@ -99,8 +95,6 @@ sections:
     design:
       columns: '1'
       view: citation
-      spacing:
-        padding: ['0', '0', '0', '0']
 
   - block: collection
     id: talks
@@ -112,8 +106,6 @@ sections:
     design:
       columns: '1'
       view: compact
-      spacing:
-        padding: ['10px', '0', '0', '0']
 
   - block: contact
     id: contact
@@ -136,6 +128,4 @@ sections:
       autolink: true
     design:
       columns: '1'
-      spacing:
-        padding: ['10px', '0', '0', '0']
 ---
