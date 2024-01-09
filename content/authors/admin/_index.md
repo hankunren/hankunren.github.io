@@ -28,22 +28,23 @@ bio: My research interests include energy storage, renewable energy and optimiza
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Renewable Energy
+  - Energy Storage
+  - Optimization
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: DPhil in Engineering Science
+      institution: University of Oxford
+      year: 2024
+    - course: MSc in Energy Systems
+      institution: University of Oxford
+      year: 2020
+    - course: BASc in Civil Engineering
+      institution: University of Oxford
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +53,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 
+        percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -65,20 +66,23 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Energy Storage
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Sizing
-        description: 'capacity size that maximize storage utilization'
+      - name: Hiking
+        description: ''
+        percent: 60
         icon: person-hiking
         icon_pack: fas
       - name: Cats
         description: ''
+        percent: 100
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
+        percent: 80
         icon: camera-retro
         icon_pack: fas
 
@@ -90,21 +94,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.ca/citations?user=C7wIKb8AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hankunren
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/hankunren
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -116,5 +114,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Han Kun Ren is an Oriel Scholar pursuing a DPhil in Engineering Science at the University of Oxford. He holds an MSc in Energy Systems from the University of Oxford and a BASc in Civil Engineering from the University of Toronto.
+
+His research centers on energy storage design in hybrid renewable systems, specifically focusing on optimizing battery storage capacity, placement, and operation to enhance renewable utilization and reduce system cost.
+
+Han has prior work experience in both industrial and research roles, where he honed his skills in programming, optimization, and hybrid renewable design.
 {style="text-align: justify;"}
