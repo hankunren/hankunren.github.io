@@ -44,4 +44,3 @@ projects:
   - storage-and-solar-sizing
 ---
 
-test
