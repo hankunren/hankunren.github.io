@@ -27,7 +27,7 @@ This paper presents a novel analytical method to optimally size energy storage i
 
 The proposed method is extended iteratively to account for storage's energy and power limits, and energy leakage. Two solar-battery case studies demonstrate the method. The first study shows that optimally sized storage does not have wasted capacity due to over-sizing, nor cause energy deficits due to under-sizing. The second case study shows increasing the storage size reduces the marginal increase in energy provided by storage, indicating diminishing returns. 
 
-
+{{< figure src="figure-storage-size-in-context.jpg" caption="Storage size in context" numbered="true" >}}
 
 
 The diminishing return thresholds are defined by the largest daily and annual storage designs. The result shows the largest daily design only requires 3% of the annual design's storage size, but provides 80% of the energy provided by the annual design. The proposed method can be used as a decision support tool for energy analysts, to determine required storage capacity when coupled with known renewable generation and load demand.
