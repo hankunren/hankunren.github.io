@@ -84,7 +84,7 @@ sections:
           - event
     design:
       columns: '1'
-      view: compact
+      view: card
       spacing:
         padding: ['30px', '0', '30px', '0']
 
