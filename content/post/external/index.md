@@ -1,12 +1,12 @@
 ---
-title: External
+title: Storage Sizing Paper Featured by University of Oxford
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
-projects: []
+projects: [storage-sizing]
 
 # Date published
 date: '2020-12-13T00:00:00Z'
@@ -23,22 +23,21 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
-  - 开源
+
 
 categories:
   - Demo
-  - 教程
 
-external_link: https://example.org
+
+external_link: https://oerc.ox.ac.uk/news/research-paper-presents-a-novel-analytical-method-to-size-energy-storage-in-local-electricity-systems/
 ---
