@@ -55,3 +55,4 @@ slides: ''
 projects:
   - [storage-sizing]
 ---
+The presentation is presented as an guest speaker to the smart energy module for the MSc in Energy Systems.

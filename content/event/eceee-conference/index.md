@@ -43,4 +43,4 @@ url_video: ''
 projects:
   - storage-and-solar-sizing
 ---
-
+The presentation is a part of Panel 8 Innovations in products, systems and building technologies in the ECEEE Summer Study Conference.
