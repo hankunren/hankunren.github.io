@@ -1,18 +1,18 @@
 ---
 title: Storage Sizing Paper Featured by University of Oxford
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Energy storage can address renewable energy's intermittency and non-dispatchability challenges by capturing surplus energy during high renewable generation and releasing that energy to bolster low generation periods, thereby ensuring a consistent and reliable renewable energy supply
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Energy storage can address renewable energy's intermittency and non-dispatchability challenges by capturing surplus energy during high renewable generation and releasing that energy to bolster low generation periods, thereby ensuring a consistent and reliable renewable energy supply
 
 # Link this post with a project
 projects: [storage-sizing]
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: ''
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: ''
 
 # Is this an unpublished draft?
 draft: false
@@ -36,7 +36,7 @@ tags:
 
 
 categories:
-  - Demo
+  - Academic
 
 
 external_link: https://oerc.ox.ac.uk/news/research-paper-presents-a-novel-analytical-method-to-size-energy-storage-in-local-electricity-systems/
