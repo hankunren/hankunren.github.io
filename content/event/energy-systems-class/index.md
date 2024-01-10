@@ -12,8 +12,8 @@ address:
   postcode: '83400'
   country: France
 
-summary: Presentation on solar and storage sizing given at the ECEEE conference.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presentation on storage sizing given at the MSc in Energy Systems class.
+abstract: 'The paper presents a novel analytical method to optimally size energy storage. The method is fast, calculates the exact optimal, and handles non-linear models. The need for storage sizing arises from the rising greenhouse gas emissions, which are considered the main culprit of climate change. Many countries have signed the Paris Agreement to curb emissions and become carbon neutral by 2050 \cite{unfccc2015}. However, currently more than 73\% of global greenhouse gas emissions come from the fossil fuel-reliant energy sector \cite{ritchie2020}. Renewable generations, such as solar and wind, produce no emissions during operation, and have lower life-cycle emissions than fossil fuel power plants \cite{pehl2017}. Moreover, solar farms produce electricity significantly cheaper than fossil fuel power plants in many countries \cite{iea2020,irena2021}. However, renewables are weather-dependent, causing their generation to be intermittent and non-dispatchable. The intermittency is dangerous for the stability of the electrical system, and the lack of dispatchability creates mismatches between electricity generation and demand, resulting in curtailed generations and unmet demands. Energy storage can mitigate renewable intermittency and non-dispatchability. Storage regulates intermittency by storing energy during high generation periods, and then releasing that energy to supplement low generation periods. In the same manner, storage can charge from surplus generation and discharge to meet the excess demand, effectively providing dispatchability to renewables. Proper sizing ensures storage has enough capacity to charge and discharge energy when required, and achieves this without unutilized or wasted storage. There are four main approaches to size energy storage: enumerative, mathematical programming, meta-heuristic and analytical.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,7 +37,7 @@ image:
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'static/ECEEE-conference-presentation.pdf'
+url_slides: 'static/eceee-conference-presentation.pptx'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -53,15 +53,5 @@ slides: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - [storage-and-solar-sizing]
+  - [storage-sizing]
 ---
-
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
