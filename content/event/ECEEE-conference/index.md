@@ -1,5 +1,5 @@
 ---
-title: Talk given on ECEEE Conference
+title: ECEEE Conference
 
 event: ECEEE Conference
 event_url: https://www.eceee.org/summerstudy/
@@ -12,7 +12,7 @@ address:
   postcode: '83400'
   country: France
 
-summary: Talk on solar and storage sizing given at the ECEEE conference.
+summary: Presentation on solar and storage sizing given at the ECEEE conference.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -37,7 +37,7 @@ image:
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'static/'
+url_slides: 'static/ECEEE-conference-presentation.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
