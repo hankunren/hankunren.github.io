@@ -22,7 +22,7 @@ slides: ''
 {style="text-align: justify;"}
 This paper presents a novel analytical method to optimally size energy storage in microgrid systems. The method has fast calculation speeds, calculates the exact optimal, and handles non-linear models. The method first constructs a temporal storage profile of stored energy, based on how storage charges and discharges in response to renewable generation and load demand. The storage is sized according to the largest cumulative charge or discharge in the profile. In essence, the storage profile represents how storage is utilized within a given system, and the method sizes optimal storage to maximize that profile, such that storage utilization is maximized, and unutilized or wasted storage is eliminated. Maximizing storage utilization also maximizes renewable consumption and minimizes load shedding, as storage utilization is the temporal transfer of energy from renewable generation to load demand. 
 
-{{< figure src="figure-storage-sizing.pdf" caption="Storage sizing" numbered="true" >}}
+{{< figure src="figure-daily-weekly-monthly.jpg" caption="Storage sizing" numbered="true" >}}
 
 
 The proposed method is extended iteratively to account for storage's energy and power limits, and energy leakage. Two solar-battery case studies demonstrate the method. The first study shows that optimally sized storage does not have wasted capacity due to over-sizing, nor cause energy deficits due to under-sizing. The second case study shows increasing the storage size reduces the marginal increase in energy provided by storage, indicating diminishing returns. 
