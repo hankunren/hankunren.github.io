@@ -17,14 +17,14 @@ abstract: 'In alignment with the Paris Agreement, Oxfordshire county in the Unit
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-06-07T10:00:00Z'
+date_end: '2022-06-07T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-07-01T00:00:00Z'
 
-authors: [admin]
+authors: [admin, Malcolm McCulloch, David Wallom]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -37,7 +37,7 @@ image:
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'static/eceee-conference-presentation.pptx'
+url_slides: 'static/eceee-conference-presentation.pdf'
 url_video: ''
 
 projects:
