@@ -20,7 +20,12 @@ url_video: ''
 slides: ''
 ---
 
-This paper presents a novel analytical method to optimally size energy storage in microgrid systems. The method has fast calculation speeds, calculates the exact optimal, and handles non-linear models. The method first constructs a temporal storage profile of stored energy, based on how storage charges and discharges in response to renewable generation and load demand. The storage is sized according to the largest cumulative charge or discharge in the profile. In essence, the storage profile represents how storage is utilized within a given system, and the method sizes optimal storage to maximize that profile, such that storage utilization is maximized, and unutilized or wasted storage is eliminated. Maximizing storage utilization also maximizes renewable consumption and minimizes load shedding, as storage utilization is the temporal transfer of energy from renewable generation to load demand. 
+This paper presents a novel analytical method to optimally size energy storage in microgrid systems. The method has fast calculation speeds, calculates the exact optimal, and handles non-linear models. 
+{style="text-align: justify;"}
+
+{{< figure src="figure-storage-sizing.jpg" caption="Storage sizing" numbered="true" >}}
+
+The method first constructs a temporal storage profile of stored energy, based on how storage charges and discharges in response to renewable generation and load demand. The storage is sized according to the largest cumulative charge or discharge in the profile. In essence, the storage profile represents how storage is utilized within a given system, and the method sizes optimal storage to maximize that profile, such that storage utilization is maximized, and unutilized or wasted storage is eliminated. Maximizing storage utilization also maximizes renewable consumption and minimizes load shedding, as storage utilization is the temporal transfer of energy from renewable generation to load demand. 
 {style="text-align: justify;"}
 
 {{< figure src="figure-daily-weekly-monthly.jpg" caption="Storage sizing" numbered="true" >}}
