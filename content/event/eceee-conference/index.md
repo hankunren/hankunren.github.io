@@ -34,11 +34,9 @@ image:
   caption: ''
   focal_point: 
 
-links:
-  name: 'Slides'
-  url: 'static/eceee-conference-presentation.pdf'
+links: ''
 url_code: ''
-url_pdf: 'static/eceee-conference-presentation.pdf'
+url_pdf: '/static/eceee-conference-presentation.pdf'
 url_slides: ''
 url_video: ''
 
