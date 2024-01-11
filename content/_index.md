@@ -61,14 +61,14 @@ sections:
   - block: collection
     content:
       title: 
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
     design:
       columns: '1'
       view: citation
