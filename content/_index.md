@@ -30,8 +30,14 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Storage
+          tag: Storage
+        - name: Renewable
+          tag: Renewable
+        - name: Visual
+          tag: Visual
+        - name: Data
+          tag: Data
         - name: Other
           tag: Demo
         - name: All
@@ -130,7 +136,7 @@ sections:
       address:
         street: Department of Engineering Science, University of Oxford, Parks Road
         city: Oxford
-        region: Oxfordshire
+        region:
         postcode: 'OX1 3PJ'
         country: United Kingdom
         country_code: UK
