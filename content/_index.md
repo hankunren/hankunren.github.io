@@ -50,9 +50,7 @@ sections:
     content:
       title: Publications
       text: |-
-        {{% callout note %}}
         [See all publications](https://scholar.google.ca/citations?user=C7wIKb8AAAAJ).
-        {{% /callout %}}
       filters:
         folders:
           - publication
