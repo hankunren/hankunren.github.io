@@ -53,13 +53,13 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
+          icon: arxiv
           url: https://arxiv.org/abs/2304.01852
         - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
+          icon: youtube
           url: https://youtube.com
         - text: Connect with me on LinkedIn
-          icon: brands/linkedin
+          icon: linkedin
           url: https://linkedin.com
 
   - block: collection
