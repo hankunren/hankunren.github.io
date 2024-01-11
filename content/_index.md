@@ -52,9 +52,6 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: fab/youtube
-          url: https://youtube.com
         - text: Connect with me on LinkedIn
           icon: fab/linkedin
           url: https://linkedin.com
