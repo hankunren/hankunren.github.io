@@ -50,7 +50,7 @@ sections:
     content:
       title: Publications
       text: |-
-        [See all publications](https://scholar.google.ca/citations?user=C7wIKb8AAAAJ).
+        See all publications on [Google Scholar](https://scholar.google.ca/citations?user=C7wIKb8AAAAJ).
       buttons:
         - title: Read my latest paper on Google Scholar
           icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
