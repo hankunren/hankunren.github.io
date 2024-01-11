@@ -1,8 +1,8 @@
 ---
 title: Energy Systems Class
 
-event: ECEEE Conference
-event_url: https://www.eceee.org/summerstudy/
+event: MSc in Energy Systems
+event_url: https://eng.ox.ac.uk/mscenergy/
 
 location: Holywell House
 address:
@@ -37,7 +37,7 @@ image:
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/eceee-conference-presentation.pptx'
+url_slides: 'uploads/energy-systems-presentation.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
