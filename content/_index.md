@@ -49,7 +49,10 @@ sections:
     id: featured
     content:
       title: Publications
-      text: [See all publications](https://scholar.google.ca/citations?user=C7wIKb8AAAAJ)
+      text: |-
+        {{% callout note %}}
+        [See all publications](https://scholar.google.ca/citations?user=C7wIKb8AAAAJ).
+        {{% /callout %}}
       filters:
         folders:
           - publication
