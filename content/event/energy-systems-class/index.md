@@ -37,7 +37,7 @@ image:
 links:
 url_code: ''
 url_pdf: ''
-url_slides: 'static/eceee-conference-presentation.pptx'
+url_slides: 'uploads/eceee-conference-presentation.pptx'
 url_video: ''
 
 # Markdown Slides (optional).
