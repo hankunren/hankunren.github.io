@@ -1,9 +1,9 @@
 ---
 title: Storage Sizing Paper Featured by University of Oxford
-subtitle: Energy storage can address renewable energy's intermittency and non-dispatchability challenges by capturing surplus energy during high renewable generation and releasing that energy to bolster low generation periods, thereby ensuring a consistent and reliable renewable energy supply
+subtitle: Energy storage can address renewable energy's intermittency and non-dispatchability challenges by capturing surplus energy during high renewable generation and releasing that energy to bolster low generation periods, thereby ensuring a consistent and reliable renewable energy supply.
 
 # Summary for listings and search engines
-summary: Energy storage can address renewable energy's intermittency and non-dispatchability challenges by capturing surplus energy during high renewable generation and releasing that energy to bolster low generation periods, thereby ensuring a consistent and reliable renewable energy supply
+summary: Energy storage can address renewable energy's intermittency and non-dispatchability challenges by capturing surplus energy during high renewable generation and releasing that energy to bolster low generation periods, thereby ensuring a consistent and reliable renewable energy supply.
 
 # Link this post with a project
 projects: [storage-sizing]
