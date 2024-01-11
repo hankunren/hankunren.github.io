@@ -49,6 +49,7 @@ sections:
     id: featured
     content:
       title: Publications
+      text: [See all publications](https://scholar.google.ca/citations?user=C7wIKb8AAAAJ)
       filters:
         folders:
           - publication
@@ -65,10 +66,6 @@ sections:
         folders:
           - publication
         exclude_featured: true
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
     design:
       columns: '1'
       view: citation
