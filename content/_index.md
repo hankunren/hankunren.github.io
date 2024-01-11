@@ -90,7 +90,9 @@ sections:
         - title: Connect with me on LinkedIn
           icon: linkedin
           url: https://linkedin.com
-
+    design:
+      columns: '1'
+      
   - block: collection
     id: talks
     content:
