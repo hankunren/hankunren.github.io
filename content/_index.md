@@ -53,12 +53,10 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Watch my new YouTube video to achieve 20x productivity
-          icon: youtube
-          icon_pack: fab
+          icon: fab/youtube
           url: https://youtube.com
         - text: Connect with me on LinkedIn
-          icon: linkedin
-          icon_pack: fab
+          icon: fab/linkedin
           url: https://linkedin.com
 
   - block: collection
