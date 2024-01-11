@@ -36,8 +36,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
-url_slides: 'static/eceee-conference-presentation.pdf'
+url_pdf: 'static/eceee-conference-presentation.pdf'
+url_slides: ''
 url_video: ''
 
 projects:
