@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Optimal sizing of solar photovoltaic and lithium battery storage to reduce grid electricity reliance in buildings'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
