@@ -84,15 +84,8 @@ sections:
         - title: Read my latest paper on LLMs
           icon: arxiv
           url: https://arxiv.org/abs/2304.01852
-        - title: Watch my new YouTube video to achieve 20x productivity
-          icon: youtube
-          url: https://youtube.com
-        - title: Connect with me on LinkedIn
-          icon: linkedin
-          url: https://linkedin.com
-    design:
-      columns: '1'
-      
+
+
   - block: collection
     id: talks
     content:
