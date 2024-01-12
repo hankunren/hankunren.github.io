@@ -38,10 +38,10 @@ sections:
           tag: Demand
         - name: Solar
           tag: Solar
-        - name: Visual
-          tag: Visual
         - name: Data
           tag: Data
+        - name: CAD
+          tag: CAD
         - name: Other
           tag: Other
         - name: All

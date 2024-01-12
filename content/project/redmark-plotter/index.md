@@ -2,7 +2,7 @@
 title: Cathodic Protection Redmark Automation
 summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
 tags:
-  - Visual
+  - CAD
   - Featured
 date: '2016-04-27T00:00:00Z'
 
