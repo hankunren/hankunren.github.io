@@ -2,7 +2,8 @@
 title: Storage and Solar Sizing
 summary: Optimal sizing of solar photovoltaic and lithium battery storage to reduce grid electricity reliance in buildings.
 tags:
-  - Renewable
+  - Solar
+  - Featured
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
