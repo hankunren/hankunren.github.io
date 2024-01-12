@@ -34,10 +34,10 @@ sections:
           tag: Featured
         - name: Storage
           tag: Storage
-        - name: Demand
-          tag: Demand
         - name: Solar
           tag: Solar
+        - name: Demand
+          tag: Demand
         - name: Data
           tag: Data
         - name: CAD
