@@ -8,7 +8,7 @@ authors:
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-09-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,10 +32,10 @@ tags:
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2352152X23011325'
+links:
+  - name: Paper
+    url: https://www.sciencedirect.com/science/article/pii/S2352152X23011325
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

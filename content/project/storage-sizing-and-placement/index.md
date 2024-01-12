@@ -1,9 +1,9 @@
 ---
-title: Storage Placement and Sizing
-summary: Analytical method to place and size energy storage with the aim of reducing system cost.
+title: Storage Sizing and Placement
+summary: Energy storage capacity sizing and site placement in renewable systems using optimal power flow to minimize generator cost and maximize storage utilization.
 tags:
   - Storage
-  - Renewable
+  - Featured
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

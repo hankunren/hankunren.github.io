@@ -1,8 +1,9 @@
 ---
-title: Cathode Plot
+title: Cathode Redmark Automation
 summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
 tags:
   - Visual
+  - Featured
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -30,16 +30,20 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
+        - name: Featured
+          tag: Featured
         - name: Storage
           tag: Storage
-        - name: Renewable
-          tag: Renewable
+        - name: Demand
+          tag: Demand
+        - name: Solar
+          tag: Solar
         - name: Visual
           tag: Visual
         - name: Data
           tag: Data
         - name: Other
-          tag: Demo
+          tag: Other
         - name: All
           tag: '*'
     design:
