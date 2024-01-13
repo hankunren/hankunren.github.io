@@ -1,5 +1,5 @@
 ---
-title: Storage and Solar Sizing
+title: Solar Photovoltaics and Battery Storage Sizing
 summary: Optimal sizing of solar photovoltaic and lithium battery storage to reduce grid electricity reliance in buildings.
 tags:
   - Solar

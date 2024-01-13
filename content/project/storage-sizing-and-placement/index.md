@@ -1,5 +1,5 @@
 ---
-title: Storage Sizing and Placement
+title: Energy Storage Sizing and Placement
 summary: Energy storage capacity sizing and site placement in renewable systems using optimal power flow to minimize generator cost and maximize storage utilization.
 tags:
   - Storage
