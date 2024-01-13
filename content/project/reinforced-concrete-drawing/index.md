@@ -20,24 +20,22 @@ url_video: ''
 slides: ''
 ---
 
-As part of my undergraduate research fellowship at the University of Toronto's structual lab, I assisted in
-
-During my first few weeks there, I was also assigned with producing AutoCAD drawings for Zahra and Farhad’s test setup.  It was relatively easy since I learnt AutoCAD in school. Later on, Farhad asked me to produce a 3D model from a 2D plan. This task was more challenging, both technically and visually, but I managed to do it in about a week, having to learn some of the software tools from scratch.
+As part of my undergraduate research fellowship at the University of Toronto's structual lab, I assisted with the visualization of reinforced concrete structures. The 3D X-Ray model of the steel reinforced shear wall is shown in Figure 1, constructed using Sketchup. The model shows the dimensions of the shear wall concrete structure and the internal steel reinforcements.
 {style="text-align: justify;"}
 
 {{< figure src="shear-wall-3d-grey.jpg" caption="Shear Wall" numbered="true" >}}
 
-
+The cross-sectional drawing of the reinforced shear wall is shown in Figure 2, constructed in AutoCAD. 
 {style="text-align: justify;"}
 
 {{< figure src="shear-wall-cross-section.jpg" caption="Shear Wall" numbered="true" >}}
 
-
+The cross-sectional drawing of the reinforced concrete pier is shown in Figure 3, illustrated in AutoCAD. The drawing shows the steel caging design within the concrete structure. It also shows the locations of strain gauges used to measure the displacement during a structural test.
 {style="text-align: justify;"}
 
 {{< figure src="pier-cross-section.jpg" caption="Shear Wall" numbered="true" >}}
 
-
+The testing setup for the shear wall is shown in Figure 4, drawn in AutoCAD. The drawing shows the hydraulic actuator attached to the steel structural frame. It will exert an top load onto the shear wall.
 {style="text-align: justify;"}
 
 {{< figure src="test-setup.jpg" caption="Shear Wall" numbered="true" >}}

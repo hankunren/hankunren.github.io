@@ -32,10 +32,10 @@ authors:
   - George Cushen
 
 tags:
-  - Academic
+  #- Academic
 
 categories:
-  - Notes
+  #- Notes
 ---
 
 ```python
@@ -48,9 +48,9 @@ print('hello')
 1. Clone [Hugo Blox template](https://hugoblox.com/templates/) from **GitHub** to **VS Code**.
 2. Install **Hugo Extended** by following the [Hugo Blox Guide 📚](https://docs.hugoblox.com/getting-started/install-hugo/).
 3. Open the cloned template in **VS Code**, edit accordingly.
-4. Open the project terminal and enter `Hugo Serve` to build the website, then click on **http://localhost:1313/** to view.
-5. Commit and Push to **GitHub**.
-6. In **GitHub**, go to project's **Setting**, click **Pages**, under **Branch**, select **Main**, and click **Save** to host the website.
+4. Open the project terminal and enter `hugo serve` to build the website, then click on **http://localhost:1313/** to view.
+5. Commit and Push to upload the changes to **GitHub**.
+6. In **GitHub**, go to project's **Setting**, click **Pages**, under **Branch**, select **Main**, then click **Save** to host the website.
 7. Rename the project to **`username`.github.io** will host the website at this address.
 8. Read the [Hugo Blox Guide](https://docs.hugoblox.com/) for more info 💡.
 
