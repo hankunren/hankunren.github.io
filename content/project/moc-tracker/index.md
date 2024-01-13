@@ -1,6 +1,6 @@
 ---
 title: MOC Document Management
-summary: Search tool to facilitate the management of docutation on project changes.
+summary: Search tool to facilitate the document management on project changes.
 tags:
   - Data
 date: '2016-04-27T00:00:00Z'
