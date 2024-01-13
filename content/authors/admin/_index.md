@@ -24,7 +24,7 @@ organizations:
     url: https://eng.ox.ac.uk/people/han-kun-ren/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include energy storage, renewable energy and optimization.
+bio:
 
 # Interests to show in About widget
 interests:
