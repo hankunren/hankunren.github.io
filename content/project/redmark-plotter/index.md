@@ -21,12 +21,12 @@ url_video: ''
 slides: ''
 ---
 
-This paper presents a novel analytical method to optimally size energy storage in microgrid systems. The method has fast calculation speeds, calculates the exact optimal, and handles non-linear models. 
+Each year, the corrosion prevention team at TC Energy has to produce hundreds of drawings with the location of tens-of-thousands of cathodic protection devices to be installed. This task is estimated to take more than 200 hours annualy. The task is semi-automated through Excel using VBA programming, and the user interface of the program is shown in Figure 1.
 {style="text-align: justify;"}
 
 {{< figure src="redmark-plotter.jpg" caption="Storage sizing" numbered="true" >}}
 
-The method first constructs a temporal storage profile of stored energy, based on how storage charges and discharges in response to renewable generation and load demand. The storage is sized according to the largest cumulative charge or discharge in the profile. In essence, the storage profile represents how storage is utilized within a given system, and the method sizes optimal storage to maximize that profile, such that storage utilization is maximized, and unutilized or wasted storage is eliminated. Maximizing storage utilization also maximizes renewable consumption and minimizes load shedding, as storage utilization is the temporal transfer of energy from renewable generation to load demand. 
+The program asks the user to trace the lines on the drawing and identify its location. Then, the program search through the database for locations of cathodic protection devices to be installed, selects the devices in that line's location, and plots them onto the engineering redmark drawing. The resulting redmark drawing is shown in Figure 2.
 {style="text-align: justify;"}
 
 {{< figure src="redmark-plot.jpg" caption="Storage sizing" numbered="true" >}}
