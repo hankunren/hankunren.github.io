@@ -9,7 +9,7 @@ summary: Energy storage can address renewable energy's intermittency and non-dis
 projects: [storage-sizing]
 
 # Date published
-date: ''
+date: '2023-07-21T10:00:00Z'
 
 # Date updated
 lastmod: ''

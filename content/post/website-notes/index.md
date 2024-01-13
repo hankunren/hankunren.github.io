@@ -8,10 +8,10 @@ summary: Notes on using Hugo Blox for website building.
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2024-01-12T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: ''
 
 # Is this an unpublished draft?
 draft: false

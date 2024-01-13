@@ -3,7 +3,7 @@ title: Construction Permit Tracker
 summary: Automated tracker for permit status and construction schedule to facilitate the concurrent progressions of both.
 tags:
   - Data
-date: '2016-04-27T00:00:00Z'
+date: '2018-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

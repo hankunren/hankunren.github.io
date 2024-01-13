@@ -4,7 +4,7 @@ summary: Optimal sizing of solar photovoltaic and lithium battery storage to red
 tags:
   - Solar
   - Featured
-date: '2022-07-06T00:00:00Z'
+date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
