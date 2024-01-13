@@ -1,9 +1,9 @@
 ---
-title: Demand Modelling
-summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
+title: Electricity Demand Model
+summary: Novel method to model electricity demand in the city of Oxford.
 tags:
   - Demand
-date: '2016-04-27T00:00:00Z'
+date: '2022-07-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

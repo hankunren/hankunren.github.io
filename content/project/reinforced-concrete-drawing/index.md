@@ -1,6 +1,6 @@
 ---
-title: AutoCAD and Sketup Visualization
-summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
+title: AutoCAD and SketchUp Engineering Visualization
+summary: 3D and 2D engineering visualizations of reinforced concrete structures using AutoCAD and SketchUp.
 tags:
   - CAD
 date: '2016-04-27T00:00:00Z'

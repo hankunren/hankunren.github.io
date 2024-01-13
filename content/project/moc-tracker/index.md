@@ -1,6 +1,6 @@
 ---
-title: Document Management
-summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
+title: MOC Document Management
+summary: Search tool to facilitate the management of docutation on project changes.
 tags:
   - Data
 date: '2016-04-27T00:00:00Z'

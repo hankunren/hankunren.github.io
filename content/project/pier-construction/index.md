@@ -1,6 +1,6 @@
 ---
 title: Reinforced Concrete Pier Construction
-summary: As part of my undergraduate research fellowship, I assisted with the construction of steel reinforced concrete piers for structural research.
+summary: Construction of steel reinforced concrete piers for structural research.
 tags:
   - Other
 date: '2016-04-27T00:00:00Z'

@@ -1,6 +1,6 @@
 ---
-title: Low Energy Home
-summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
+title: Low Energy Solar Home
+summary: Building envenlope design and energy simulation of a low energy solar home.
 tags:
   - Demand
 date: '2016-04-27T00:00:00Z'

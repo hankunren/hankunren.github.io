@@ -21,7 +21,7 @@ role: DPhil in Engineering Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Oxford
-    url: https://www.ox.ac.uk/
+    url: https://eng.ox.ac.uk/people/han-kun-ren/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include energy storage, renewable energy and optimization.

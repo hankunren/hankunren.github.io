@@ -1,6 +1,6 @@
 ---
-title: Schedule Track
-summary: Novel method to size storage with the aim of maximizing storage utilization and eliminating wasted storage capcacity.
+title: Construction Permit Tracker
+summary: Automated tracker for permit status and construction schedule to facilitate the concurrent progressions of both.
 tags:
   - Data
 date: '2016-04-27T00:00:00Z'
@@ -20,12 +20,12 @@ url_video: ''
 slides: ''
 ---
 
-This paper presents a novel analytical method to optimally size energy storage in microgrid systems. The method has fast calculation speeds, calculates the exact optimal, and handles non-linear models. 
+The permit tracker is programmed using VBA in Excel. The user inputs sites of interest, and the program identifies the associated permit status via SharePoint, and compares it with the construction schedule. The tracker enables project managers to facilitate concurrent progression in constructions and permit applications across hundreds of sites, by creating an automated tracker that monitors permit status and construction schedules. The tracker's user interface is shown in Figure 1.
 {style="text-align: justify;"}
 
 {{< figure src="schedule-option.jpg" caption="Storage sizing" numbered="true" >}}
 
-The method first constructs a temporal storage profile of stored energy, based on how storage charges and discharges in response to renewable generation and load demand. The storage is sized according to the largest cumulative charge or discharge in the profile. In essence, the storage profile represents how storage is utilized within a given system, and the method sizes optimal storage to maximize that profile, such that storage utilization is maximized, and unutilized or wasted storage is eliminated. Maximizing storage utilization also maximizes renewable consumption and minimizes load shedding, as storage utilization is the temporal transfer of energy from renewable generation to load demand. 
+The tracking result are shown in Figure 2. The program highlights sites with conflict between permit status and construction schedule, enables project manager to proactively reschedule sites to ensure permit compliance.
 {style="text-align: justify;"}
 
 {{< figure src="schedule-track.jpg" caption="Storage sizing" numbered="true" >}}
