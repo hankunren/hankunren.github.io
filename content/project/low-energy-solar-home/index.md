@@ -1,6 +1,6 @@
 ---
 title: Low Energy Solar Home
-summary: Building envenlope design and energy simulation of a low energy solar home.
+summary: Building envelope design and energy simulation of a low energy solar home.
 tags:
   - Demand
 date: '2016-04-27T00:00:00Z'
