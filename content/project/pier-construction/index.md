@@ -20,23 +20,23 @@ url_video: ''
 slides: ''
 ---
 
-As part of my undergraduate research fellowship at the University of Toronto's structual lab, I assisted in the construction of steel reinforced concrete pier for structural research. I safely operated band saws, cutters, benders for cutting and shaping the steel rebars. The steel cagings are tied together using steel wires. Then, rebar surfaces are sanded for glueing the strain gauges. The finished cagings are shown in Figure 1.
+As part of my undergraduate research fellowship at the University of Toronto's structural lab, I assisted with the construction of a steel-reinforced concrete pier for structural research. I safely operated band saws, cutters, and benders to cut and shape the steel rebars. The rebars were then assembled into steel cagings using steel wire ties. Subsequently, the rebar were sanded to provide surfaces for gluing the strain gauges. The completed steel cagings are shown in Figure 1.
 {style="text-align: justify;"}
 
 {{< figure src="pier-caging.jpg" caption="Storage sizing" numbered="true" >}}
 
 
-The concrete forms are assebled, and cagings are loaded into the the forms, as shown in Figure 2.
+The concrete forms were assembled, and the cages were loaded into the forms, as shown in Figure 2.
 {style="text-align: justify;"}
 
 {{< figure src="pier-form.jpg" caption="Storage sizing" numbered="true" >}}
 
-Then, further steel extension for testing are tied to the cagings, and tube casings are load on top as shown in Figure 3.
+Tube casings were loaded on top, while steel extensions for testing were extended into the cages, as shown in Figure 3.
 {style="text-align: justify;"}
 
 {{< figure src="pier-tubing.jpg" caption="Storage sizing" numbered="true" >}}
 
-After curing, the final concrete piers are shown in Figure 4.
+Concrete was poured into the forms, and after curing, the reinforced concrete piers are shown in Figure 4.
 {style="text-align: justify;"}
 
 {{< figure src="pier-final.jpg" caption="Storage size in context" numbered="true" >}}

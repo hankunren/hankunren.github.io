@@ -21,12 +21,12 @@ url_video: ''
 slides: ''
 ---
 
-Each year, the corrosion prevention team at TC Energy has to produce hundreds of drawings with the location of thousands of cathodic protection devices to be installed. This task is estimated to take more than 200 hours annualy. The task is semi-automated through Excel using VBA programming, which streamlined engineering drawing process and improved drawing accuracy. The user interface of the program is shown in Figure 1.
+Each year, the corrosion prevention team at TC Energy has to produce hundreds of engineering drawings with the locations of thousands of cathodic protection devices to be installed. This task is estimated to take more than 200 hours annually. Recognizing the need to streamline this process and improve the accuracy of the drawings, I developed a program in Excel VBA to semi-automate this task. The user interface of the program is shown in Figure 1.
 {style="text-align: justify;"}
 
 {{< figure src="redmark-plotter.jpg" caption="User interface for the cathodic protection redmark plotter" numbered="true" >}}
 
-The program asks the user to trace the line on the drawing and identify its real-world location. Then, the program search through the database for locations of cathodic protection devices, selects the devices in that line's location, and plots them onto the engineering redmark drawing. The resulting redmark drawing is shown in Figure 2.
+The program prompts the user to trace the line on the drawing and identify its real-world location. Then, the program searches through the database for the locations of cathodic protection devices, selects the devices in that line's location, and plots them onto the engineering redmark drawing. The resulting redmark drawing is shown in Figure 2.
 {style="text-align: justify;"}
 
 {{< figure src="redmark-plot.jpg" caption="Example remark from the plotter" numbered="true" >}}

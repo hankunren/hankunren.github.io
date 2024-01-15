@@ -20,8 +20,7 @@ url_slides: ''
 url_video: ''
 slides: ''
 ---
-
-This research presents a novel analytical method for sizing and placing energy storage, with the objective of maximizing storage utilization and minimizing generator costs. The method exhibits fast performance, accommodates non-convex models, and converges effectively to optimal sizing and placement. The method first employs optimal power flow to optimize storage power dispatch. Then, storage profiles are constructed based on the storage dispatch. Subsequently, storage sizing and placement are calculated from these profiles. A summary of the method is shown in Figure 1. 
+This project is part of a journal paper titled "Energy storage capacity sizing and site placement in renewable systems using optimal power flow to minimize generator cost and maximize storage utilization" submitted to Applied Energy. The research presents a novel analytical method for sizing and placing energy storage, with the objective of maximizing storage utilization and minimizing generator costs. The method exhibits fast performance, accommodates non-convex models, and converges effectively to optimal sizing and placement. The method first employs optimal power flow to optimize storage power dispatch. Then, storage profiles are constructed based on the storage dispatch. Subsequently, storage sizing and placement are calculated from these profiles. A summary of the method is shown in Figure 1. 
 {style="text-align: justify;"}
 
 {{< figure src="figure-method-overview.jpg" caption="Summary of the proposed method on sizing and placing energy storage." numbered="true" >}}

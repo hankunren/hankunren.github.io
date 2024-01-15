@@ -20,12 +20,12 @@ url_video: ''
 slides: ''
 ---
 
-The permit tracker is programmed using VBA in Excel. The user inputs sites of interest, and the program identifies the associated permit status via SharePoint, and compares it with the construction schedule. The tracker enables project managers to facilitate concurrent progression in constructions and permit applications across hundreds of sites, by creating an automated tracker that monitors permit status and construction schedules. The tracker's user interface is shown in Figure 1.
+At TC Energy, my project manager requested a program to track the permit status of construction sites. I developed the permit tracker using Excel VBA, where users input sites of interest, and the program identifies the associated permit status from the permit deptarment database via SharePoint. Additionally, the program compares the permit status with the construction schedule, providing warnings to the project manager of potential conflicts. This tool empowers project managers to concurrently manage construction progression and permit applications across hundreds of sites. The user interface of the tracker is illustrated in Figure 1.
 {style="text-align: justify;"}
 
 {{< figure src="schedule-option.jpg" caption="Storage sizing" numbered="true" >}}
 
-The tracking result are shown in Figure 2. The program highlights sites with conflict between permit status and construction schedule, enables project manager to proactively reschedule sites to ensure permit compliance.
+The tracking results are shown in Figure 2. The program highlights sites with potential conflicts between permit status and the construction schedule, enabling project managers to proactively reschedule sites to ensure permit compliance.
 {style="text-align: justify;"}
 
 {{< figure src="schedule-track.jpg" caption="Storage sizing" numbered="true" >}}
