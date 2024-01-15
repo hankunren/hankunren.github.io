@@ -37,7 +37,7 @@ The method is applied to a case study on a carbon-neutral carbon-neutral village
 
 The study finds that the storage requirement is highest when renewable generations are just enough to support the system, as illustrated in Figure 4. Additional renewable generators can reduce the storage requirement, but only up to a certain extent. This is because storage remains necessary to support demand during calm nights with no solar or wind generation.
 {style="text-align: justify;"}
-{{< figure src="figure-wind-solar-variation.jpg" caption="ensitivity analysis on the effect of solar and wind capacity variation on (a) total storage size, and (b) energy exchange with the external grid." numbered="true" >}}
+{{< figure src="figure-wind-solar-variation.jpg" caption="Sensitivity analysis on the effect of solar and wind capacity variation on (a) total storage size, and (b) energy exchange with the external grid." numbered="true" >}}
 
 
 The proposed method serves as a decision support tool for energy system planners, aiding in optimal storage sizing and placement given known generation and demand.
