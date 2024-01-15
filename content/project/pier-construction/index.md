@@ -25,7 +25,6 @@ As part of my undergraduate research fellowship at the University of Toronto's s
 
 {{< figure src="pier-caging.jpg" caption="Storage sizing" numbered="true" >}}
 
-
 The concrete forms were assembled, and the cages were loaded into the forms, as shown in Figure 2.
 {style="text-align: justify;"}
 

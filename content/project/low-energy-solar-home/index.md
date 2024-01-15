@@ -21,6 +21,7 @@ slides: ''
 ---
 
 My capstone group project focused on the design of a low-energy home incorporating rooftop solar PV. My responsibility entailed designing the building envelope and simulating energy consumption of the home. The building envelope comprised of walls, ceiling, floors, and foundation. The wall design drew inspiration from the double stud wall system, chosen for its high thermal resistivity, ease of integration, and inherent design redundancy that safeguards wall integrity against degradation and damage.
+{style="text-align: justify;"}
 
 From the exterior to the interior, the wall components include: exterior Hardie board, furring strips, air and water barrier, plywood sheathing, wooden stud, rockwool insulation, vapor and air barrier, plywood sheathing, wooden stud, rockwool insulation, and interior gypsum board. The detailed wall design is depicted in Figure 1.
 {style="text-align: justify;"}
