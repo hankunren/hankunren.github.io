@@ -26,7 +26,7 @@ Each year, the corrosion prevention team at TC Energy has to produce hundreds of
 
 {{< figure src="redmark-plotter.jpg" caption="User interface for the cathodic protection redmark plotter" numbered="true" >}}
 
-The program prompts the user to trace the line on the drawing and identify its real-world location. Then, the program searches through the database for the locations of cathodic protection devices, selects the devices in that line's location, and plots them onto the engineering redmark drawing. The resulting redmark drawing is shown in Figure 2.
+The program prompts the user to trace the line on the drawing and identify its real-world location. Then, the program searches through the design database for locations of cathodic protection devices, selects the devices in that line's location, and plots them onto the engineering redmark drawing. The resulting redmark drawing is shown in Figure 2.
 {style="text-align: justify;"}
 
 {{< figure src="redmark-plot.jpg" caption="Example remark from the plotter" numbered="true" >}}
