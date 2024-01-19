@@ -44,7 +44,7 @@ education:
       institution: University of Oxford
       year: 2020
     - course: BASc in Civil Engineering
-      institution: University of Oxford
+      institution: University of Toronto
       year: 2019
 
 # Skills
