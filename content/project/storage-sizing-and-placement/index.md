@@ -30,12 +30,12 @@ The proposed method is benchmarked against both meta-heuristic and mathematical 
 
 {{< figure src="figure-storage-map-24.jpg" caption="Storage size and placement using the proposed method with AC OPF and linear storage model in the IEEE Reliability Test System." numbered="true" >}}
 
-The method is applied to a case study on a carbon-neutral village with wind and solar generation. The storage size and placement for the village, featuring two wind turbines and 4 kW solar PV per building, are shown in Figure 3.
+The method is applied to a case study on a carbon-neutral village with wind and solar generation. The storage size and placement for the village, featuring two wind turbines and 4 kW solar PV per building, are shown in Figure 3. The result shows large storage units are placed on the buses hosting two wind turbines, and on the substation buses before and after the transformer.
 {style="text-align: justify;"}
 
 {{< figure src="figure-storage-map-500.jpg" caption="Storage size and placement using the proposed method with AC OPF in the carbon-neutral village." numbered="true" >}}
 
-The study finds that the storage requirement is highest when renewable generations are just enough to support the system, as illustrated in Figure 4. Additional renewable generators can reduce the storage requirement, but only up to a certain extent. This is because storage remains necessary to support demand during calm nights with no solar or wind generation.
+A sensitivity analysis was conducted by varying the solar and wind generation capacity, as illustrated in Figure 4. The analysis found that the storage requirement is highest when renewable generations are just enough to support the system. Additional renewable generators can reduce the storage requirement, but only up to a certain extent. This is because storage remains necessary to support demand during calm nights with no solar or wind generation.
 {style="text-align: justify;"}
 {{< figure src="figure-wind-solar-variation.jpg" caption="Sensitivity analysis on the effect of solar and wind capacity variation on (a) total storage size, and (b) energy exchange with the external grid." numbered="true" >}}
 
