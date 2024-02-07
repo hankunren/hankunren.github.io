@@ -20,12 +20,12 @@ url_slides: ''
 url_video: ''
 slides: ''
 ---
-This project is part of a conference paper titled 'Optimal sizing of solar photovoltaic and lithium battery storage to reduce grid electricity reliance in buildings,' published in the ECEEE conference. The research aims to optimally size solar photovoltaic and lithium battery storage systems, reducing the city of Oxford’s grid electricity reliance in buildings. The analysis begins by modeling electricity demand using Elexon electricity settlement profiles. Next, solar generation is modeled using Pfenninger and Staffell’s method. The setup of the solar-battery system is illustrated in Figure 1.
+This project is part of a conference paper titled 'Optimal sizing of solar photovoltaic and lithium battery storage to reduce grid electricity reliance in buildings,' published in the ECEEE conference. The research aims to optimally size solar photovoltaic and lithium battery storage systems, reducing the city of Oxford’s grid electricity reliance in buildings. The setup of the solar-battery system is illustrated in Figure 1.
 {style="text-align: justify;"}
 
 {{< figure src="figure-system-setup.jpg" caption="Hybrid renewable solar-battery system setup" numbered="true" >}}
 
-Solar photovoltaic and lithium storage systems are sized using a hybridized analytical and enumerative method. Initially, the method calculates the search range for the solar PV system size. Subsequently, it systematically iterates through this size search range. At each solar size, the method calculates the search range for the battery storage system size, and then systematically iterates through this size search range. Within each iteration, the renewable system is simulated using demand and generation data, incorporating a simplified system setup and a conventional operational strategy. The method outputs combinations of solar system capacity, storage system capacity, and grid electricity import, as illustrated in Figure 2.
+Solar photovoltaic and lithium storage systems are sized using a hybridized analytical and enumerative method. Initially, the method calculates the search range for the solar PV system size. Subsequently, it systematically iterates through this size search range. At each solar size, the method calculates the search range for the battery storage system size, and then systematically iterates through that size search range. Within each iteration, the renewable system is simulated using demand and generation data with a conventional operational strategy. The method outputs combinations of solar system capacity, storage system capacity, and grid electricity import, as illustrated in Figure 2.
 {style="text-align: justify;"}
 
 {{< figure src="figure-design-space.jpg" caption="Design space with solar capacity, storage capacity, and annual grid electricity import" numbered="true" >}}
