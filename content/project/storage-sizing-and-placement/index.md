@@ -30,7 +30,7 @@ The proposed method is benchmarked against both meta-heuristic and mathematical 
 
 {{< figure src="figure-storage-map-24.jpg" caption="Storage size and placement using the proposed method with AC OPF and linear storage model in the IEEE Reliability Test System." numbered="true" >}}
 
-The method is applied to a case study on a carbon-neutral carbon-neutral village with wind and solar generation. The storage size and placement for the village, featuring two wind turbines and 4 kW solar PV per building, are shown in Figure 3.
+The method is applied to a case study on a carbon-neutral village with wind and solar generation. The storage size and placement for the village, featuring two wind turbines and 4 kW solar PV per building, are shown in Figure 3.
 {style="text-align: justify;"}
 
 {{< figure src="figure-storage-map-500.jpg" caption="Storage size and placement using the proposed method with AC OPF in the carbon-neutral village." numbered="true" >}}
