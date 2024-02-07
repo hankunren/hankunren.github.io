@@ -25,12 +25,12 @@ This project is part of a journal paper titled 'Novel Method to Size Storage wit
 
 {{< figure src="figure-storage-sizing.jpg" caption="Solar–battery microgrid’s (a) unconstrained storage profile and (b) constrained storage profile." numbered="true" >}}
 
-The method is applied to a solar-battery home case study to determine the storage size for each day, week, and month. The results, presented in Figure 2, indicate that peak summer and peak winter require smaller storage, while early summer and early autumn require larger storage. This is because high demand and generation necessitate larger storage, whereas low demand or low generation requires smaller storage.
+The method is applied to a solar-battery home case study to determine the storage size requirement for each day, week, and month of the year. The results, presented in Figure 2, indicate that summer and winter require smaller storage, while spring and autumn require larger storage. This is because high demand and generation requires larger storage, whereas either low demand or low generation will result in smaller storage requirements.
 {style="text-align: justify;"}
 
 {{< figure src="figure-daily-weekly-monthly.jpg" caption="Storage size calculated using the (a) monthly, (b) weekly, and (c) daily design period." numbered="true" >}}
 
-The study also demonstrates that increasing the storage size reduces the marginal increase in energy provided by storage, indicating diminishing returns. The thresholds for diminishing returns are defined by the largest daily and annual storage designs, as illustrated in Figure 3. The results show that the largest daily design only requires 3% of the annual design's storage size but provides 80% of the energy supplied by the annual design.
+The study also demonstrates that increasing the storage size reduces the marginal increase in energy provided by storage, indicating diminishing returns. The thresholds for diminishing returns are defined by the largest daily and annual storage sizes, as illustrated in Figure 3. The results show that the largest daily storage size is only 3% of the annual storage size, but provides 80% of the energy supplied by the annual storage.
 {style="text-align: justify;"}
 
 {{< figure src="figure-storage-size-in-context.jpg" caption="Storage size and the associated energy provided to the microgrid" numbered="true" >}}
