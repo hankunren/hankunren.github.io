@@ -23,19 +23,19 @@ slides: ''
 As part of my undergraduate research fellowship at the University of Toronto's structural lab, I assisted with the construction of a steel-reinforced concrete pier for structural research. I safely operated band saws, cutters, and benders to cut and shape the steel rebars. The rebars were then assembled into steel cagings using steel wire ties. Subsequently, the rebar were sanded to provide surfaces for gluing the strain gauges. The completed steel cagings are shown in Figure 1.
 {style="text-align: justify;"}
 
-{{< figure src="pier-caging.jpg" caption="Storage sizing" numbered="true" >}}
+{{< figure src="pier-caging.jpg" caption="Pier caging" numbered="true" >}}
 
 The concrete forms were assembled, and the cages were loaded into the forms, as shown in Figure 2.
 {style="text-align: justify;"}
 
-{{< figure src="pier-form.jpg" caption="Storage sizing" numbered="true" >}}
+{{< figure src="pier-form.jpg" caption="Pier form" numbered="true" >}}
 
 Tube casings were loaded on top, while steel extensions for testing were extended into the cages, as shown in Figure 3.
 {style="text-align: justify;"}
 
-{{< figure src="pier-tubing.jpg" caption="Storage sizing" numbered="true" >}}
+{{< figure src="pier-tubing.jpg" caption="Pier tubing" numbered="true" >}}
 
 Concrete was poured into the forms, and after curing, the reinforced concrete piers are shown in Figure 4.
 {style="text-align: justify;"}
 
-{{< figure src="pier-final.jpg" caption="Storage size in context" numbered="true" >}}
+{{< figure src="pier-final.jpg" caption="Finished Piers" numbered="true" >}}

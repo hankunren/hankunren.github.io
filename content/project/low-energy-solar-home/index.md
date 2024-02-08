@@ -26,17 +26,17 @@ My capstone group project focused on the design of a low-energy home incorporati
 From the exterior to the interior, the wall components include: exterior Hardie board, furring strips, air and water barrier, plywood sheathing, wooden stud, rockwool insulation, vapor and air barrier, plywood sheathing, wooden stud, rockwool insulation, and interior gypsum board. The detailed wall design is depicted in Figure 1.
 {style="text-align: justify;"}
 
-{{< figure src="wall-side-view.jpg" caption="Storage sizing" numbered="true" >}}
+{{< figure src="wall-side-view.jpg" caption="Wall side view" numbered="true" >}}
 
 The wall design is simulated in THERM to determine its thermal resistivity, as illustrated in Figure 2. The wooden studs act as thermal conductors, and separating them in a double stud system effectively interrupts the direct path for thermal conductance.
 {style="text-align: justify;"}
 
-{{< figure src="wall-thermal.jpg" caption="Storage sizing" numbered="true" >}}
+{{< figure src="wall-thermal.jpg" caption="Wall thermal simulation" numbered="true" >}}
 
 The wall design is also simulated in WUFI to obtain moisture characteristics, as depicted in Figure 3. The simulation indicates that moisture will not accumulate inside the wall, mitigating the risk of molding and damage to the structural integrity.
 {style="text-align: justify;"}
 
-{{< figure src="wall-moisture.jpg" caption="Storage sizing" numbered="true" >}}
+{{< figure src="wall-moisture.jpg" caption="Wall moisture penetration simulation" numbered="true" >}}
 
 The envelope designs for the ceiling, floors, and foundation are depicted in Figures 4 to 6. Each design was simulated in THERM and WUFI to determine its thermal and moisture characteristics.
 {style="text-align: justify;"}
@@ -48,6 +48,6 @@ The envelope designs for the ceiling, floors, and foundation are depicted in Fig
 The entire house was simulated in HOT2000 to determine its heat loss and energy consumption. The results are shown in Figure 7.
 {style="text-align: justify;"}
 
-{{< figure src="energy-consumption-result.jpg" caption="Storage size in context" numbered="true" >}}
+{{< figure src="energy-consumption-result.jpg" caption="Energy consumption simulation" numbered="true" >}}
 
 

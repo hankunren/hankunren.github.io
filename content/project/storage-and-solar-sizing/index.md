@@ -33,4 +33,4 @@ Solar photovoltaic and lithium storage systems are sized using a hybridized anal
 The levelized cost of electricity is calculated for each combination, and the optimal sizing is determined by selecting the combination with the lowest cost. Solar and storage system costs are projected from 2019 to 2100, and optimal sizing is calculated for each year in the projection. The results, depicted in Figure 3, indicate that currently, solar PV is economically competitive, but the cost of lithium battery storage is still too high. As solar and storage prices continue to decrease, they will take up larger portions of the energy system. However, there will always be a need for the power grid, as it provides flexibility at a competitive cost.
 {style="text-align: justify;"}
 
-{{< figure src="figure-future-system.jpg" caption="Optimal solar capacity, storage capacity, and grid electricity import according to NREL renewable cost projection." numbered="true" >}}
+{{< figure src="figure-future-system.jpg" caption="Optimal solar capacity, storage capacity, and grid electricity import according to NREL renewable cost projection" numbered="true" >}}
